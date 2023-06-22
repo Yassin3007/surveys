@@ -1,0 +1,58 @@
+
+.content-wrapper {
+    background: #343a40;
+    color: white;
+}
+.wrapper {
+    background: #343a40;
+    color: white;
+}
+.teacher{
+    margin-right: 0 !important;
+}
+.main-header {
+    background-color: #1f2d3d;
+}
+
+.card-body{
+    background: #343a40;
+}
+.card-header{
+    background: #1f2d3d;
+}
+h1{
+    color: white;
+}
+.logout{
+    color: white !important;
+
+}
+.main-footer{
+    background-color: #1f2d3d;
+}
+.modal-body{
+    color: #fff;
+    background-color: #343a40;
+}
+.form-control {
+    color: #fff;
+    background-color: #343a40;
+}
+.modal-header{
+    color: #FFFFFF;
+    background-color: #1f2d3d;
+
+}
+.close{
+    color: #FFFFFF;
+}
+.answer{
+    color: black;
+}
+html{
+    background-color: #1f2d3d;
+
+}
+.btn {
+    margin: 3px;
+}
